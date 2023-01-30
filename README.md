@@ -15,5 +15,5 @@ made sure the css elements/ ids are the same as well so that they display the sa
 ![screenshot of the Horiseon website](./assets/images/Screenshot_20230130_040233.png)
 
 ## links to the website
-<li>https://alexwatabe9.github.io/Challenge1/</li>
-<li>https://github.com/AlexWatabe9/Challenge1</li>
+<li>https://alexwatabe9.github.io/Horiseon//</li>
+<li>https://github.com/AlexWatabe9/Horiseon</li>
