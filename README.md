@@ -16,4 +16,4 @@ made sure the css elements/ ids are the same as well so that they display the sa
 
 ## links to the website
 <li>https://alexwatabe9.github.io/Challenge1/</li>
-https://github.com/AlexWatabe9/Challenge1
+<li>https://github.com/AlexWatabe9/Challenge1</li>
